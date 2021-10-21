@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background-image:url("https://wallpapercave.com/wp/wp7447292.jpg");
 }
 
 .bla {
@@ -7,5 +7,16 @@ body {
     font-size: 30px;
 }
 
-.new {font-family: "DejaVu Sans";
+.new {font-family: "Bahnschrift";
       fontsize: 22px,}
+
+
+ table, td {
+     padding: 10px;
+     border: 2px solid black;
+     border-collapse: collapse;
+ }
+
+
+.titre {font-family: "Cambria Math";
+    font-size: 40px;}
