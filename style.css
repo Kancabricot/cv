@@ -20,3 +20,7 @@ body {
 
 .titre {font-family: "Cambria Math";
     font-size: 40px;}
+
+.np {font-family: "Carlito";
+    font-size: 50px;
+    text-decoration: underline #FF3028;}
